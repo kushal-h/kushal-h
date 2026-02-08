@@ -22,7 +22,7 @@ I bridge the gap between research and production, with experience deploying ML s
 
 ## 🔭 Currently Working On
 
-- Building production ML pipelines with Docker, Kubernetes, and automated CI/CD at ODU VMASC
+- Building production ML pipelines with Docker, Kubernetes, and automated CI/CD
 - Developing LLM applications and Model Context Protocol (MCP) systems for enterprise use cases
 - Deploying and monitoring ML models in production environments with real-time performance tracking
 - Teaching the next generation of ML engineers (TA for ML, NLP, and Data Structures courses)
@@ -41,7 +41,7 @@ I bridge the gap between research and production, with experience deploying ML s
 
 ### 💻 Professional Experience
 
-**AI/ML Research Assistant** @ ODU VMASC *(Feb 2024 - Present)*
+**AI/ML Research Assistant** @ ODU VMASC *(Feb 2024 - Dec 2025)*
 - Building production ML infrastructure with containerization and orchestration
 - Developing LLM applications serving security analysts and researchers
 - Implementing automated deployments and model monitoring systems
