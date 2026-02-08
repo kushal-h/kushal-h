@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-AI/ML Engineer specializing in **production LLM systems**, **RAG architectures**, and **MLOps**. Currently pursuing MS in Computer Science at Old Dominion University (GPA: 3.97/4.0, graduating Dec 2025). Passionate about building scalable AI systems that solve real-world problems.
+AI/ML Engineer specializing in **production LLM systems**, **RAG architectures**, and **MLOps**. Graduated with MS in Computer Science from Old Dominion University (GPA: 3.97/4.0, Dec 2025). Passionate about building scalable AI systems that solve real-world problems.
 
 I bridge the gap between research and production, with experience deploying ML systems serving 400+ users, achieving 99.9% uptime, and processing millions of records in production environments.
 
@@ -128,7 +128,7 @@ Focus: AI/ML, Natural Language Processing, Cloud Computing, MLOps
 
 ## 🎯 What I'm Looking For
 
-🔍 **Open to opportunities starting January 2026**
+🔍 **Open to opportunities immediately**
 
 I'm seeking full-time **AI/ML Engineer** or **MLOps Engineer** roles where I can:
 - Build and deploy production LLM applications and RAG systems
