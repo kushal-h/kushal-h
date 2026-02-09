@@ -108,15 +108,16 @@ Built production CRM serving 400+ medical staff with integrated NLP: patient int
 
 **Tech**: Django, spaCy, PostgreSQL, AWS EC2/RDS, Celery, React
 
-## 📈 GitHub Stats
+## 📌 Why Recruiters Care About My GitHub
 
-<div align="center">
-  
+I use GitHub to ship **production-grade AI systems**, not just experiments.
 
-![Kushal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kushal-h&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400)
-![GitHub Streak](https://streak-stats.demolab.com/?user=kushal-h&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kushal-h&layout=compact&theme=radical&hide_border=true&cache_seconds=86400)
-</div>
+✔️ End-to-end ML systems (data → model → API → monitoring)  
+✔️ Real users (400+), real uptime (99.9%), real metrics  
+✔️ Clean, documented, reproducible code  
+✔️ Focus on **impact**, not vanity metrics  
+
+If a repository is public, it represents work I’d be comfortable shipping in a professional environment.
 
 ## 🎓 Education
 
