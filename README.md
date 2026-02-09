@@ -113,8 +113,7 @@ Built production CRM serving 400+ medical staff with integrated NLP: patient int
 <div align="center">
   
 
-![Kushal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kushal-h&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400)
-
+![Kushal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kushal-h&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=kushal-h&theme=radical&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kushal-h&layout=compact&theme=radical&hide_border=true&cache_seconds=86400)
 </div>
