@@ -19,7 +19,6 @@ I build end-to-end AI systems that ship, scale, and stay up.
 - NLP: clinical notes, document understanding, entity extraction  
 - MCP: agents that safely talk to real enterprise systems
 
-## 💼 Professional Highlights
 
 ## Highlights
 
