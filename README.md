@@ -78,16 +78,12 @@ Processes 10K+ patient records/month with 99.9% uptime and ~60% time savings vs 
 **Tech**: Django, spaCy, PostgreSQL, AWS EC2/RDS, Celery, React
 
 
-## 📌 Why Recruiters Care About My GitHub
+## Why this GitHub matters
 
-I use GitHub to ship **production-grade AI systems**, not just experiments.
+- End-to-end ML systems: data → model → API → monitoring  
+- Real users, real uptime, real metrics  
+- Repos here are code I'd be comfortable shipping to production
 
-✔️ End-to-end ML systems (data → model → API → monitoring)  
-✔️ Real users (400+), real uptime (99.9%), real metrics  
-✔️ Clean, documented, reproducible code  
-✔️ Focus on **impact**, not vanity metrics  
-
-If a repository is public, it represents work I’d be comfortable shipping in a professional environment.
 
 ## 🎓 Education
 
