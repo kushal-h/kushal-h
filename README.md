@@ -45,40 +45,21 @@ I build end-to-end AI systems that ship, scale, and stay up.
 - Designed Django REST APIs and PII masking for HIPAA-aligned processing
 
 
-## 🛠️ Tech Stack
+## Tech stack
 
-### 🤖 LLMs & Generative AI
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
-
-**Models**: GPT-4/3.5, Claude, Llama 3, Gemini  
-**Frameworks**: LangChain, LlamaIndex, LangGraph, Model Context Protocol (MCP)  
-**Vector DBs**: Pinecone, Chroma, FAISS, Weaviate  
-**Fine-tuning**: QLoRA, PEFT, LoRA, prompt engineering
-
-### 🔧 ML/DL & MLOps
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-
-**ML/DL**: PyTorch, TensorFlow, Keras, Scikit-learn, XGBoost, Hugging Face Transformers  
-**MLOps**: Docker, Kubernetes, MLflow, DVC, GitHub Actions, CI/CD pipelines  
-**Model Serving**: FastAPI, Flask, Streamlit, Django REST Framework  
-**Monitoring**: Model performance tracking, automated health checks, logging pipelines  
-**Cloud**: AWS (SageMaker, EC2, S3, RDS), GCP (Vertex AI, BigQuery), Azure ML
-
-### 💾 Data & Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-**Databases**: PostgreSQL, MongoDB, Vector Databases  
-**Languages**: Python (expert), SQL, C++, Bash, R  
-**Data Tools**: NumPy, Pandas, Apache Airflow, Kafka
+- **LLMs**: GPT-4, Claude, Llama 3, Gemini; LangChain, LlamaIndex, MCP  
+- **MLOps**: PyTorch, TensorFlow, Docker, Kubernetes, MLflow, GitHub Actions  
+- **Backend**: FastAPI, Django REST, Flask, Streamlit  
+- **Data**: PostgreSQL, MongoDB, vector DBs, Pandas, Airflow, Kafka  
+- **Cloud**: AWS (EC2, S3, RDS, SageMaker), GCP, Azure ML
+
 
 ## 📊 Featured Projects
 
