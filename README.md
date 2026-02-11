@@ -60,23 +60,23 @@ I build end-to-end AI systems that ship, scale, and stay up.
 - **Data**: PostgreSQL, MongoDB, vector DBs, Pandas, Airflow, Kafka  
 - **Cloud**: AWS (EC2, S3, RDS, SageMaker), GCP, Azure ML
 
+## Featured projects
 
-## 📊 Featured Projects
+### 🤖 RAG Financial Analyst Chatbot
+End-to-end RAG over 50+ proprietary financial reports (~2,000 pages) using LangChain + Pinecone.  
+Hit 92% factual accuracy vs 67% GPT-4 baseline on 100 Qs, deployed on AWS EC2 (~1.2s avg latency, 500+ queries).  
+**Tech**: LangChain, Pinecone, GPT-4, FastAPI, AWS EC2
 
-### 🤖 RAG-Powered Financial Analyst Chatbot
-Architected end-to-end RAG pipeline processing 50+ proprietary financial reports (~2,000 pages) using LangChain + Pinecone with hybrid search. **Achieved 92% factual accuracy** vs. 67% baseline GPT-4 on 100-question test set. Deployed on AWS EC2 with monitoring dashboard tracking response latency (avg 1.2s) and serving 500+ queries.
-
-**Tech**: LangChain, Pinecone, GPT-4, FastAPI, AWS EC2, RAGAS evaluation
-
-### 🔐 Agentic Data Integration via Model Context Protocol
-Developed custom MCP server enabling Claude to securely query PostgreSQL databases (5M+ records) with JWT authentication and SQL injection prevention. **Reduced analysis workflow time by 75%** (30-45 min → 5-10 min) across security team use cases. Deployed to production serving 3 analysts with Docker containerization.
-
+### 🔐 MCP Agent for Secure Data Access
+Custom MCP server for Claude over 5M+ PostgreSQL rows with JWT auth and SQL-injection-safe querying.  
+Cut analyst workflows by ~75% (45 min → 10 min), shipped in Docker for 3 security analysts.  
 **Tech**: Python, MCP SDK, PostgreSQL, Claude API, JWT, Docker
 
 ### 🏥 Medical CRM with NLP Automation
-Built production CRM serving 400+ medical staff with integrated NLP: patient intake classification (85% accuracy), clinical note entity extraction (82% F1-score), and urgency detection (78% accuracy). **Reduced daily workflow from 2-3 hours to 30 minutes** (60% time savings). Currently processing 10K+ patient records monthly with 99.9% uptime.
-
+Production CRM for 400+ staff with NLP (intake 85% accuracy, entities 82% F1, urgency 78% accuracy).  
+Processes 10K+ patient records/month with 99.9% uptime and ~60% time savings vs manual.  
 **Tech**: Django, spaCy, PostgreSQL, AWS EC2/RDS, Celery, React
+
 
 ## 📌 Why Recruiters Care About My GitHub
 
