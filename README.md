@@ -96,17 +96,12 @@ Open to **AI/ML Engineer** or **MLOps Engineer** roles starting Jan 2026.
 I want to build production LLM apps, RAG systems, and ML infrastructure with real users and clear impact.  
 Particularly interested in healthcare, fintech, and cybersecurity domains.
 
-## 📫 How to Reach Me
+---
 
-<div align="center">
+## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kushal-h)
-[![Email](https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kushal.h1999@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github)](https://github.com/kushal-h)
-
-📍 Norfolk, VA | 💼 Open to relocation | 🌐 Available for remote work
-
-</div>
+📍 Norfolk, VA • 💼 Open to relocation • 🌐 Open to remote  
+🔗 [LinkedIn](https://linkedin.com/in/kushal-h) · 📧 kushal.h1999@gmail.com · 🧑‍💻 [GitHub](https://github.com/kushal-h)
 
 ---
 
