@@ -85,13 +85,10 @@ Processes 10K+ patient records/month with 99.9% uptime and ~60% time savings vs 
 - Repos here are code I'd be comfortable shipping to production
 
 
-## 🎓 Education
+## Education
 
-**Master of Science in Computer Science** | Old Dominion University  
-*Aug 2022 - Dec 2025* | GPA: 3.97/4.0  
-Focus: AI/ML, Natural Language Processing, Cloud Computing, MLOps
-
-**Relevant Coursework**: Deep Learning, Advanced NLP, Cloud Computing, Data Mining, Distributed Systems, Human-Computer Interaction
+**MS Computer Science**, Old Dominion University *(Aug 2022 – Dec 2025)* – GPA 3.97/4.0  
+Focus: AI/ML, NLP, Cloud Computing, MLOps
 
 ## 🎯 What I'm Looking For
 
