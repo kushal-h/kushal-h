@@ -90,17 +90,11 @@ Processes 10K+ patient records/month with 99.9% uptime and ~60% time savings vs 
 **MS Computer Science**, Old Dominion University *(Aug 2022 – Dec 2025)* – GPA 3.97/4.0  
 Focus: AI/ML, NLP, Cloud Computing, MLOps
 
-## 🎯 What I'm Looking For
+## What I'm looking for
 
-🔍 **Open to opportunities starting January 2026**
-
-I'm seeking full-time **AI/ML Engineer** or **MLOps Engineer** roles where I can:
-- Build and deploy production LLM applications and RAG systems
-- Design end-to-end ML infrastructure (training → deployment → monitoring)
-- Work on impactful AI solutions in healthcare, fintech, or other domains
-- Scale ML systems to serve thousands of users with enterprise reliability
-
-**Particularly interested in**: LLM applications, RAG systems, MLOps infrastructure, production ML systems, NLP applications, and healthcare AI. Also open to AI applications in cybersecurity domains.
+Open to **AI/ML Engineer** or **MLOps Engineer** roles starting Jan 2026.  
+I want to build production LLM apps, RAG systems, and ML infrastructure with real users and clear impact.  
+Particularly interested in healthcare, fintech, and cybersecurity domains.
 
 ## 📫 How to Reach Me
 
