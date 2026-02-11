@@ -1,4 +1,4 @@
-# Hi there, I'm Kushal Honnappa 👋
+# Hi, I'm Kushal 👋
 
 <div align="center">
   
@@ -8,17 +8,16 @@
 
 </div>
 
-## 🚀 About Me
+AI/ML Engineer focused on **production LLM systems**, **RAG**, and **MLOps**.  
+MS CS @ Old Dominion University (GPA 3.97/4.0, Dec 2025).  
+I build end-to-end AI systems that ship, scale, and stay up.
 
-AI/ML Engineer specializing in **production LLM systems**, **RAG architectures**, and **MLOps**. MS in Computer Science from Old Dominion University (GPA: 3.97/4.0, graduated Dec 2025). Passionate about building scalable AI systems that solve real-world problems.
+## What I'm good at
 
-I bridge the gap between research and production, with experience deploying ML systems serving 400+ users, achieving 99.9% uptime, and processing millions of records in production environments.
-
-### 🎯 Core Expertise
-- 🤖 **Production LLM Systems** - RAG pipelines, prompt engineering, fine-tuning
-- ⚙️ **MLOps** - Docker, Kubernetes, CI/CD, model monitoring, automated deployments
-- 📝 **NLP Applications** - Clinical note processing, document understanding, entity extraction
-- 🔧 **Model Context Protocol** - Building AI agents that interact with enterprise systems
+- Production LLM systems: RAG pipelines, prompt design, fine-tuning  
+- MLOps: Docker, Kubernetes, CI/CD, monitoring, automated deployments  
+- NLP: clinical notes, document understanding, entity extraction  
+- MCP: agents that safely talk to real enterprise systems
 
 ## 🔭 Currently Working On
 
