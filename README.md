@@ -64,16 +64,19 @@ I build end-to-end AI systems that ship, scale, and stay up.
 ### 🤖 RAG Financial Analyst Chatbot
 End-to-end RAG over 50+ proprietary financial reports (~2,000 pages) using LangChain + Pinecone.  
 Hit 92% factual accuracy vs 67% GPT-4 baseline on 100 Qs, deployed on AWS EC2 (~1.2s avg latency, 500+ queries).  
+
 **Tech**: LangChain, Pinecone, GPT-4, FastAPI, AWS EC2
 
 ### 🔐 MCP Agent for Secure Data Access
 Custom MCP server for Claude over 5M+ PostgreSQL rows with JWT auth and SQL-injection-safe querying.  
 Cut analyst workflows by ~75% (45 min → 10 min), shipped in Docker for 3 security analysts.  
+
 **Tech**: Python, MCP SDK, PostgreSQL, Claude API, JWT, Docker
 
 ### 🏥 Medical CRM with NLP Automation
 Production CRM for 400+ staff with NLP (intake 85% accuracy, entities 82% F1, urgency 78% accuracy).  
 Processes 10K+ patient records/month with 99.9% uptime and ~60% time savings vs manual.  
+
 **Tech**: Django, spaCy, PostgreSQL, AWS EC2/RDS, Celery, React
 
 
