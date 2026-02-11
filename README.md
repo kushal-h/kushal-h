@@ -19,41 +19,31 @@ I build end-to-end AI systems that ship, scale, and stay up.
 - NLP: clinical notes, document understanding, entity extraction  
 - MCP: agents that safely talk to real enterprise systems
 
-## 🔭 Currently Working On
-
-- Building production ML pipelines with Docker, Kubernetes, and automated CI/CD
-- Developing LLM applications and Model Context Protocol (MCP) systems for enterprise use cases
-- Deploying and monitoring ML models in production environments with real-time performance tracking
-- Teaching the next generation of ML engineers (TA for ML, NLP, and Data Structures courses)
-
 ## 💼 Professional Highlights
 
-### 🏆 Key Achievements
+## Highlights
 
-- **92% RAG Accuracy**: Built RAG pipeline achieving 92% factual accuracy vs. 67% baseline GPT-4, deployed on AWS serving real users
-- **99.9% Uptime**: Deployed production systems serving 400+ users with enterprise-grade reliability
-- **65% Efficiency Gain**: Developed MCP agent system reducing threat analysis time from 45min → 15min
-- **10K+ Clinical Notes**: Automated NLP workflows processing 10K+ medical notes monthly with 82% F1-score
-- **Production MLOps**: Implemented Docker/Kubernetes pipelines for model serving and monitoring
-- **85% Privacy Risk Reduction**: Created PII anonymization pipeline using BERT-based NER
-- **2K+ Documents/Week**: Architected FastAPI microservices processing documents at scale
+- 92% RAG accuracy vs 67% GPT-4 baseline—deployed on AWS serving real users  
+- 400+ medical staff supported with 99.9% uptime in production CRM  
+- 75% faster analyst workflows using MCP agents over 5M+ PostgreSQL records  
+- 10K+ clinical notes/month processed with 82% F1 on entity extraction
 
-### 💻 Professional Experience
 
-**AI/ML Research Assistant** @ ODU VMASC *(Feb 2024 - Dec 2025)*
-- Building production ML infrastructure with containerization and orchestration
-- Developing LLM applications serving security analysts and researchers
-- Implementing automated deployments and model monitoring systems
 
-**Software Developer & NLP Specialist** @ Medilenz Services *(Sep 2021 - Aug 2022)*
-- Built medical CRM platform serving 400+ staff with 99.9% uptime
-- Automated clinical NLP workflows with 82% F1-score on entity extraction
-- Reduced manual data entry from 2-3 hours to 30 minutes daily (60% savings)
+## Professional experience
 
-**NLP Research Developer** @ Avkara Technologies *(Feb 2020 - Aug 2021)*
-- Developed privacy-preserving AI for mental health platform (5K+ sessions/month)
-- Architected Django REST API backend with real-time NLP processing
-- Implemented HIPAA-compliant transcript processing with PII masking
+**AI/ML Research Assistant** @ ODU VMASC *(Feb 2024 – Dec 2025)*  
+- Built containerized ML infrastructure and LLM apps for security analysts  
+- Automated deployments and model monitoring for production workloads
+
+**Software Developer & NLP Specialist** @ Medilenz *(Sep 2021 – Aug 2022)*  
+- Shipped medical CRM used by 400+ staff with 99.9% uptime  
+- Automated NLP workflows (82% F1) and cut daily manual work by ~60%
+
+**NLP Research Developer** @ Avkara *(Feb 2020 – Aug 2021)*  
+- Built privacy-preserving NLP for 5K+ mental-health sessions/month  
+- Designed Django REST APIs and PII masking for HIPAA-aligned processing
+
 
 ## 🛠️ Tech Stack
 
