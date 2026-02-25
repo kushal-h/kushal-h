@@ -94,7 +94,7 @@ Focus: AI/ML, NLP, Cloud Computing, MLOps
 
 ## What I'm looking for
 
-Open to **AI/ML Engineer** or **MLOps Engineer** roles starting Jan 2026.  
+Open to **AI/ML Engineer** or **MLOps Engineer** roles starting Feb 2026.  
 I want to build production LLM apps, RAG systems, and ML infrastructure with real users and clear impact.  
 Particularly interested in healthcare, fintech, and cybersecurity domains.
 
