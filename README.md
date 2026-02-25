@@ -22,7 +22,7 @@ I build end-to-end AI systems that ship, scale, and stay up.
 
 ## Highlights
 
-- 92% RAG accuracy vs 67% GPT-4 baseline—deployed on AWS serving real users  
+- 92% RAG accuracy vs 67% GPT-4 baseline deployed on AWS serving real users  
 - 400+ medical staff supported with 99.9% uptime in production CRM  
 - 75% faster analyst workflows using MCP agents over 5M+ PostgreSQL records  
 - 10K+ clinical notes/month processed with 82% F1 on entity extraction
